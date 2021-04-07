@@ -1,0 +1,13 @@
+name: tozulip-crystal
+version: 0.1.0
+
+authors:
+  - Thomas Fini Hansen <xen@xen.dk>
+
+targets:
+  tozulip:
+    main: src/tozulip.cr
+
+crystal: 1.0.0
+
+license: MIT
